@@ -13,3 +13,7 @@ Is repository me maine Oasis Infobyte Data Analytics Fellowship ke tasks ko comp
 **Intern Name:** Kanchan Kumari Kevat  
 **Batch:** June 2026  
 **Domain:** Data Analytics Internship
+### Project 3: Iris Flower Classification
+* **File Name:** KanchanKumariKevat_Task3.ipynb
+* **Objective:** Classified Iris flowers into three species (Setosa, Versicolor, Virginica) using the K-Nearest Neighbors (KNN) Machine Learning algorithm.
+*
